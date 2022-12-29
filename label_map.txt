@@ -1,0 +1,14 @@
+# Number of Classes
+nc: 6
+
+# Class Names
+names: [	0: "billboards", 
+		1: "bricks", 
+		2: "consMats", 
+		3: "strtLitters", 
+		4: "towers", 
+		5: "wires"
+				]
+# All the annotations are on normalized YOLO format
+
+# Created by: Yearat, Nijhum, Adnan, Tazin
