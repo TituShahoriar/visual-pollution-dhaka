@@ -62,7 +62,7 @@ Contributions to the Visual Pollution Dhaka dataset are welcome! If you would li
 For any inquiries or suggestions regarding the Visual Pollution Dhaka dataset, please reach out to:
 
 - Name: Md Riasat Khan
-- Email: [md.riashatkhan@example.com](mailto:md.riashatkhan@example.com)
+- Email: [riasat.khan@northsouth.edu](mailto:riasat.khan@northsouth.edu)
 - Affiliation: Associate Professor, NSU
 - PhD: New Mexico, USA
 
